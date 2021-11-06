@@ -10,7 +10,7 @@ const addCount = document.getElementById('add-count');
 let countAddClicks = 0;
 
 // set event listener
-// original code...
+//original
 // addButton.addEventListener('click', () => {
 //   const num1 = +addInput1.value;
 //   const num2 = +addInput2.value;
