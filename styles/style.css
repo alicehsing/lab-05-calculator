@@ -115,8 +115,15 @@ footer {
 
   }
 
-  #add-button, #minus-button, #multiply-button, #divide-button {
-      background-color: #feeafa;
-      margin-top: 10px;
-      
-  }
+#add-button, #minus-button, #multiply-button, #divide-button {
+    background-color: #feeafa;
+    margin-top: 10px;
+}
+
+span {
+    font-size: large;
+    font-weight: 800;
+    text-transform: uppercase;
+    margin-bottom: 10px;;
+}
+
